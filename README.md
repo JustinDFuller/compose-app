@@ -1,4 +1,7 @@
 # compose-app
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/JustinDFuller/compose-app.svg)](https://greenkeeper.io/)
+
 Example of creating an entire app through function composition
 
 ## What?
